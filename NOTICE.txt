@@ -1,0 +1,7 @@
+1. ucloudstorage java sdk는 openstack에서 제공하는
+   Swift java binding(http://wiki.openstack.org/SwiftAPI)을 포함하고 있다.
+   swift java binding는 MIT 라이센스이며, ucloudstorage java sdk에 포함되어 있는
+   swift java binding 역시 동일한 MIT 라이센스를 유지한다.
+
+2. Third party library의 라이센스는 개별 library의 라이센스를 준수하며,
+   해당 라이센스 참조를 요망한다.
